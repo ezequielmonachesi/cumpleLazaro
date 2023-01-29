@@ -9,6 +9,15 @@
     background-position: center;
     background-size: cover;
 }
+.fondoArania{
+    font-family: 'Unbounded', cursive;
+    background-image: url(../img/arania.jpg);
+    width: 100%;
+    background-repeat: no-repeat no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
 .felizCumple{
     font-family: 'Unbounded', cursive;
     font-size: 45px;
