@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@600&display=swap');
+
+
 .banner{
     background-image: url(../img/banner2.jpeg);
     height: 100vh;
@@ -5,4 +8,10 @@
     background-repeat: no-repeat no-repeat;
     background-position: center;
     background-size: cover;
+}
+.felizCumple{
+    font-family: 'Unbounded', cursive;
+    font-size: 45px;
+    color: #fdd008;
+    text-shadow: 1px 1px 2px red, 0 0 1em black, 0 0 0.2em red;
 }
